@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrit Paudel</h1>
 <h3 align="center">A CS student from Nepal</h3>
 
-- 🌱 I’m currently learning **Nodejs + React**
+- 🌱 I’m currently learning **Nodejs + linux**
 
 - 📫 How to reach me **me@amritpaudel.info.np**
 
