@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrit073" alt="amrit073" /></a>
 </p>
 
-- 🌱 I’m currently learning **Nodejs, Golang , Devops**
+- 🌱 I’m currently learning **Nodejs, Postgres , Devops**
 
 - 👨‍💻 All of my projects are available at [github.com/amrit073](github.com/amrit073)
 
-- 💬 Ask me about **Linux Administration**
+- 💬 Ask me about **postgres + linux**
 
 - 📫 How to reach me **me@amritpaudel.info.np**
 
