@@ -52,7 +52,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrit073&show_icons=true&locale=en&layout=compact" alt="amrit073" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrit073&show_icons=true&locale=en" alt="amrit073" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrit073&" alt="amrit073" /></p>
-
