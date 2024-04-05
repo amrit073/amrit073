@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **postgres + linux**
 
-- 📫 How to reach me **me@amritpaudel.info.np**
+- 📫 How to reach me **hi@amritpaudel.info.np**
 
 - ⚡ Fun fact **vi > emacs**
 
