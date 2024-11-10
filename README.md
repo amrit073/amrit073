@@ -13,7 +13,7 @@
 
 ### 🖥 Skills
 
-- Backend enginnering
+- Backend engineering
 - System design and administration 
 - Relational databases
 
